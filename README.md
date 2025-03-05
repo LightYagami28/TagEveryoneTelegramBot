@@ -15,7 +15,7 @@
     A Telegram bot to tag everyone in a group
     <br />
     <br />
-    <a href="https://t.me/TagEveryone_TheBot">View Demo</a>
+    <a href="https://t.me/@TagEveryone_TheBot">View Demo</a>
     ·
     <a href="https://github.com/Matt0550/TagEveryoneTelegramBot/issues">Report Bug</a>
     ·
